@@ -1,0 +1,23 @@
+{
+  "name": "chai_aur_code",
+  "version": "1.0.0",
+  "description": "There will be some awesome web d project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhankar55/Chai_Aur_Code.git"
+  },
+  "author": "Subhankar Maiti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhankar55/Chai_Aur_Code/issues"
+  },
+  "homepage": "https://github.com/subhankar55/Chai_Aur_Code#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
